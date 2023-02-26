@@ -1,9 +1,14 @@
 <h1 align="center"> 👩‍🎨 Portifólio 👩‍🎨</h1>
 
 ## Sobre o Projeto 🚀
-Portifolio criado para demontrar um pouco sobre mim, sobre minhas skills e projetos.
+Portifolio criado para demontrar um pouco sobre mim, sobre minhas skills, carreira e projetos.
 
-<img src = "images/pokedex.png" align="center"/>
+<img src = "images/banner1.png" align="center"/>
+<img src = "images/banner2.png" align="center"/>
+<img src = "images/banner3.png" align="center"/>
+<img src = "images/banner4.png" align="center"/>
+<img src = "images/banner5.png" align="center"/>
+<img src = "images/banner6.png" align="center"/>
 
 
 ## Tecnologia 💻
