@@ -21,6 +21,6 @@ Portifolio criado para demontrar um pouco sobre mim, sobre minhas skills, carrei
 #
 ## Considerações 🚧
 
-- Para visualizar o site acesse o link: https://piano-estherluize.netlify.app
+- Para visualizar o site acesse o link: https://estherluize.netlify.app
  
 - Dê uma ⭐ se você gostou deste site!
