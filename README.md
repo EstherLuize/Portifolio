@@ -1,7 +1,7 @@
-<h1 align="center"> 🎮 Portifólio 🎮</h1>
+<h1 align="center"> 👩‍🎨 Portifólio 👩‍🎨</h1>
 
 ## Sobre o Projeto 🚀
-Projeto criado para exibir todos os pokemons de uma pokedex utilizando uma api para trazer essas informaçoes. 
+Portifolio criado para demontrar um pouco sobre mim, sobre minhas skills e projetos.
 
 <img src = "images/pokedex.png" align="center"/>
 
